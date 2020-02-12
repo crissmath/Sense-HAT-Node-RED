@@ -4,7 +4,6 @@
  [Sense Hat](https://www.raspberrypi.org/documentation/hardware/sense-hat/) sensors, joystick and dot matrix using the [node-red-node-pi-sense-hat](https://flows.nodered.org/node/node-red-node-pi-sense-hat) node. Follow the instructions below, install all prerequisites and import the given flows into your Node-RED installation using the import dialogue. The Node-RED panel - [how to install Node-RED on a Raspberry Pi](https://nodered.org/docs/getting-started/raspberrypi) - is available under `http://<IP of your Pi>:1880` and the Node-RED Dashboard can be reached with  `http://<IP of your Pi>:1880/ui`:
 
 
-
 ## Pre-requisites
 
 ### Installing Python 3.7.0 on Raspbian
@@ -37,10 +36,29 @@ sudo pip3 install pillow
 
 Then install the [node-red-node-pi-sense-hat](https://flows.nodered.org/node/node-red-node-pi-sense-hat) node in [Node-RED](https://nodered.org/) and [node-red-dashboard](https://flows.nodered.org/node/node-red-dashboard) from the Palette menu:
 
-## FLOW 1 : Read procesador data 
 
-### Diagram 
+## FLOW 1 : Read data from procesador
+### Diagram
 ![FLOW1](https://github.com/crissmath/NODE-RED-PROJECT/blob/master/Pictures/Flow1.png)
-### Flow 
+### Flow
 ![FLOW1](https://github.com/crissmath/NODE-RED-PROJECT/blob/master/Pictures/Imagen6.png)
+### Dashboard
+![FLOW1](https://github.com/crissmath/NODE-RED-PROJECT/blob/master/Pictures/Imagen8.png)
 
+
+## FLOW 2 : Read data from SenseHat using lybrary
+### Diagram
+![FLOW1](https://github.com/crissmath/NODE-RED-PROJECT/blob/master/Pictures/SRM-Page-3.png)
+### Flow
+![FLOW1](https://github.com/crissmath/NODE-RED-PROJECT/blob/master/Pictures/Imagen10.png)
+### Dashboard
+![FLOW1](https://github.com/crissmath/NODE-RED-PROJECT/blob/master/Pictures/Imagen11.png)
+
+
+## FLOW 2 : Read data from SenseHat custom metho
+### Diagram
+![FLOW1](https://github.com/crissmath/NODE-RED-PROJECT/blob/master/Pictures/SRM-Page-3.png)
+### Flow
+![FLOW1](https://github.com/crissmath/NODE-RED-PROJECT/blob/master/Pictures/Imagen10.png)
+### Dashboard
+![FLOW1](https://github.com/crissmath/NODE-RED-PROJECT/blob/master/Pictures/Imagen11.png)

@@ -59,6 +59,6 @@ Then install the [node-red-node-pi-sense-hat](https://flows.nodered.org/node/nod
 ### Diagram
 ![FLOW1](https://github.com/crissmath/NODE-RED-PROJECT/blob/master/Pictures/SRM-Page-4.png)
 ### Flow
-![FLOW1](https://github.com/crissmath/NODE-RED-PROJECT/blob/master/Pictures/Imagen10.png)
+![FLOW1](https://github.com/crissmath/NODE-RED-PROJECT/blob/master/Pictures/Imagen12.png)
 ### Dashboard
 ![FLOW1](https://github.com/crissmath/NODE-RED-PROJECT/blob/master/Pictures/Imagen13.png)

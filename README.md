@@ -55,9 +55,9 @@ Then install the [node-red-node-pi-sense-hat](https://flows.nodered.org/node/nod
 ![FLOW1](https://github.com/crissmath/NODE-RED-PROJECT/blob/master/Pictures/Imagen11.png)
 
 
-## FLOW 2 : Read data from SenseHat custom metho
+## FLOW 2 : Read data from SenseHat custom method
 ### Diagram
-![FLOW1](https://github.com/crissmath/NODE-RED-PROJECT/blob/master/Pictures/SRM-Page-3.png)
+![FLOW1](https://github.com/crissmath/NODE-RED-PROJECT/blob/master/Pictures/SRM-Page-4.png)
 ### Flow
 ![FLOW1](https://github.com/crissmath/NODE-RED-PROJECT/blob/master/Pictures/Imagen10.png)
 ### Dashboard

@@ -37,11 +37,10 @@ sudo pip3 install pillow
 
 Then install the [node-red-node-pi-sense-hat](https://flows.nodered.org/node/node-red-node-pi-sense-hat) node in [Node-RED](https://nodered.org/) and [node-red-dashboard](https://flows.nodered.org/node/node-red-dashboard) from the Palette menu:
 
+## FLOW 1 : Read procesador data 
 
-##FLOW 1 : Read procesador data 
-
-###Diagram 
+### Diagram 
 ![FLOW1](https://github.com/crissmath/NODE-RED-PROJECT/blob/master/Pictures/Flow1.png)
-###Flow 
+### Flow 
 ![FLOW1](https://github.com/crissmath/NODE-RED-PROJECT/blob/master/Pictures/Imagen6.png)
 

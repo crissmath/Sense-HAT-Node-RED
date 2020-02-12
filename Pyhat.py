@@ -1,3 +1,10 @@
+#!/usr/bin/env python 
+"""Pyhat.py: Read sensor SenseHat , and Publish at MqttBroker."""
+__author__ = "Cristian Ramirez"
+__copyright__ = "Copyright 2020, Planet Earth"
+
+Fuente: https://www.iteramos.com/pregunta/4649/python-cual-es-el-formato-comun-de-cabecera
+
 from sense_hat import SenseHat
 import paho.mqtt.client as mqtt #importamos el cliente
 import time
